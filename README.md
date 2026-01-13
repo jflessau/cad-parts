@@ -1,20 +1,20 @@
 # cad parts
 
-Parts I designed in FreeCad for various projects.
+Parts I designed in [FreeCAD](https://www.freecad.org/) for various projects.
 
 ### Parts
 
 #### OLED Display (SDD1309)
 
-![CAD view of the OLED Display model](./oled-display-sdd1309.png)
+<img src="./oled-display-sdd1309.png" style="max-width:300px; border-radius: 12px;" alt="CAD view of the OLED Display model"/>
 
 #### Raspberry Pi Zero W 2
 
-![CAD view of the Raspberry Pi Zero W 2 model](./raspberry-pi-zero-w-2.png)
+<img src="./raspberry-pi-zero-w-2.png" style="max-width:300px; border-radius: 12px;" alt="CAD view of the Raspberry Pi Zero W 2 model"/>
 
 #### Rotary Encoder KY-040
 
-![CAD view of the Rotary Encoder KY-040 model](./rotary-encoder-ky-040.png)
+<img src="./rotary-encoder-ky-040.png" style="max-width:300px; border-radius: 12px;" alt="CAD view of the Rotary Encoder KY-040 model"/>
 
 ## License
 
